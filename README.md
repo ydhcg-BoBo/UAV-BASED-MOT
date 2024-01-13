@@ -1,2 +1,2 @@
-# STCMOT
+# UAV based MOT
 code will be released soon...
